@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(25, 206, 238);
+}
+#cest {
+border-radius: 50%;
+
+}
+#man {
+    border-radius: 50%;  
+}
+h1 {
+    text-align:center;
+    color: white;
+    border: 1px solid black;
+    background-color:rgb(55, 136, 228); 
+    border-radius: 7px;
+}
+h2 {
+    text-align: center;
+    background-color: brown;
+    color:white;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+.lin {
+    background-color:rgb(55, 136, 228); 
+    border: 1px solid black;
+    border-radius:5px;
+    padding: 7px;
+    margin:0px;
+}
+.ins {
+    background-color: rgb(55, 136, 228);
+    color:white;
+    border: 1px solid black;
+}
